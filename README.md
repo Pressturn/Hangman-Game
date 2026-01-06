@@ -1,4 +1,4 @@
-# #HANGMAN GAME 
+##HANGMAN GAME 
 
 Objective: Figure out the hiddem word in less than 7 tries
 
