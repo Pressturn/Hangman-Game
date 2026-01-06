@@ -2,7 +2,7 @@
 
 Objective: Figure out the hiddem word in less than 7 tries
 
-**Live demo**: https://pressturn.github.io/project1-game-hangman/
+**Live demo**: https://pressturn.github.io/Hangman-Game/
 
 Welcome To Hangman!
 ![alt text](<assets/Game Screen.png>)
